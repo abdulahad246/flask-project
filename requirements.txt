@@ -1,0 +1,4 @@
+lask>=2.0.2
+numpy
+pandas
+scikit-learn
